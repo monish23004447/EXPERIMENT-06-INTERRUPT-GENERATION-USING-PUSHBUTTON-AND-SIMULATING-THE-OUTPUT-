@@ -93,9 +93,15 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
+
+<img width="1913" height="1006" alt="Screenshot 2025-10-06 090624" src="https://github.com/user-attachments/assets/5c4f4d8e-42db-4511-93e4-6b5b12958bbe" />
+
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+
+ <img width="1162" height="783" alt="Screenshot 2025-10-06 092114" src="https://github.com/user-attachments/assets/ed0eb920-4162-4cd6-98db-dd1ca742bd66" />
+
  
  
 ## Result :
